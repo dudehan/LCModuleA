@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LCModuleA_Example' do
+  pod 'LCModuleA', :path => '../'
+
+  target 'LCModuleA_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

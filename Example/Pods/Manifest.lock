@@ -1,0 +1,16 @@
+PODS:
+  - LCModuleA (0.1.0)
+
+DEPENDENCIES:
+  - LCModuleA (from `../`)
+
+EXTERNAL SOURCES:
+  LCModuleA:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LCModuleA: 089c30718e45548f690dc92af84b77dc4d89da8c
+
+PODFILE CHECKSUM: 8b2b8e0a24c8023be0ff8057da97ef4f8447fec4
+
+COCOAPODS: 1.10.0
