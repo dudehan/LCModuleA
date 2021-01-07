@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+0.1.0 测试版
                        DESC
 
   s.homepage         = 'https://github.com/dudehan/LCModuleA'
