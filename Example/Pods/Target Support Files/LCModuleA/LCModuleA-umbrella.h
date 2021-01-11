@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "LCTestVCViewController.h"
 
 FOUNDATION_EXPORT double LCModuleAVersionNumber;
 FOUNDATION_EXPORT const unsigned char LCModuleAVersionString[];

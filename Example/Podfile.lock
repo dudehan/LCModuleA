@@ -1,16 +1,16 @@
 PODS:
-  - LCModuleA (0.1.0)
+  - LCModuleA (0.3.0)
 
 DEPENDENCIES:
-  - LCModuleA
+  - LCModuleA (~> 0.3.0)
 
 SPEC REPOS:
   https://github.com/dudehan/LCPodSpecs.git:
     - LCModuleA
 
 SPEC CHECKSUMS:
-  LCModuleA: 3ed7161cbfe1cf4110b7b5a2d9fac28fecd2f494
+  LCModuleA: 56b367fb92967a25c1642d4db1ebd0a3d1d676ae
 
-PODFILE CHECKSUM: f02727bb943b5b770ebe50ff748038ff856dca49
+PODFILE CHECKSUM: 09896487c51be178234672ec811a2f284a288ce8
 
 COCOAPODS: 1.10.0

@@ -6,7 +6,7 @@ platform :ios, '9.0'
 
 target 'LCModuleA_Example' do
 #  pod 'LCModuleA', :path => '../'
-  pod 'LCModuleA'
+  pod 'LCModuleA', '~> 0.3.0'
   target 'LCModuleA_Tests' do
     inherit! :search_paths
 
