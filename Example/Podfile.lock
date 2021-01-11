@@ -2,15 +2,15 @@ PODS:
   - LCModuleA (0.1.0)
 
 DEPENDENCIES:
-  - LCModuleA (from `../`)
+  - LCModuleA
 
-EXTERNAL SOURCES:
-  LCModuleA:
-    :path: "../"
+SPEC REPOS:
+  https://github.com/dudehan/LCPodSpecs.git:
+    - LCModuleA
 
 SPEC CHECKSUMS:
-  LCModuleA: 089c30718e45548f690dc92af84b77dc4d89da8c
+  LCModuleA: 3ed7161cbfe1cf4110b7b5a2d9fac28fecd2f494
 
-PODFILE CHECKSUM: 8b2b8e0a24c8023be0ff8057da97ef4f8447fec4
+PODFILE CHECKSUM: f02727bb943b5b770ebe50ff748038ff856dca49
 
 COCOAPODS: 1.10.0
