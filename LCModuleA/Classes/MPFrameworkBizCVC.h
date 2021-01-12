@@ -6,8 +6,9 @@
 //  Copyright © 2018年 Alibaba. All rights reserved.
 //
 
+#import "LCBizC-Prefix.h"
+#import "LCBizCDemoDef.h"
 
-
-@interface MPFrameworkBizCVC : UIViewController
+@interface MPFrameworkBizCVC : DTViewController
 
 @end

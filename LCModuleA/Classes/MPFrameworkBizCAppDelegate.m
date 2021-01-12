@@ -8,6 +8,8 @@
 
 #import "MPFrameworkBizCAppDelegate.h"
 #import "MPFrameworkBizCVC.h"
+#import "LCBizC-Prefix.h"
+#import "LCBizCDemoDef.h"
 
 @interface MPFrameworkBizCAppDelegate ()
 
